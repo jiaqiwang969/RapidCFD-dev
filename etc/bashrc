@@ -44,7 +44,7 @@ export WM_PROJECT_VERSION=dev
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #foamInstall=$HOME/$WM_PROJECT
 # foamInstall=~/$WM_PROJECT
-foamInstall=/opt/Openfoam/RapidCFD-dev
+foamInstall=/opt/Openfoam
 # foamInstall=/usr/local/$WM_PROJECT
 #
 # END OF (NORMAL) USER EDITABLE PART
